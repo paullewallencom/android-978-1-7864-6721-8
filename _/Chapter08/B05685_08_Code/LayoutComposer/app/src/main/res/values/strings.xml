@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout Composer</string>
+    <string name="layout_title">layout title</string>
+    <string name="text_custom">text custom</string>
+    <string name="new_string">new string</string>
+    <string name="headline"><b>SANDWICH NEWS</b></string>
+    <string name="story"><b>THIS WEEK\'S TOP THREE SANDWICHES</b>\nAs voted by you... this week\'s tastiest treat goes to the <b>Honey Mustard Ham and Radish Croissant</b></string>
+</resources>

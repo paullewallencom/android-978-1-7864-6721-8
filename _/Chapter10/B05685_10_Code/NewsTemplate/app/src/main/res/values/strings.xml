@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Template</string>
+    <string name="change">change</string>
+    <string name="content_description">content description</string>
+    <string name="news_content">The verb to sandwich has the meaning to position anything between two other things of a different character, or to place different elements alternately, and the noun sandwich has related meanings derived from this more general definition. For example, an ice cream sandwich consists of a layer of ice cream between two layers of cake or biscuit. Similarly, Oreos and Custard Creams are described as sandwich biscuits because they consist of a soft filling between layers of biscuit.</string>
+    <string name="news_headline">World\'s Tastiest Sandwich</string>
+    <string name="news_title">NEWS TODAY</string>
+    <string name="sport_content">Sports are all forms of usually competitive physical activity or games which, through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators. Usually the contest or game is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods, to ensure one winner and one loser.</string>
+    <string name="sport_headline">Sports News Today</string>
+</resources>

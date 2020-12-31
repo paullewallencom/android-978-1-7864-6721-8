@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="reminder">set reminder</string>
+    <string name="max_time">60 min</string>
+    <string name="default_time">30 min</string>
+    <string name="cancel">cancel</string>
+</resources>

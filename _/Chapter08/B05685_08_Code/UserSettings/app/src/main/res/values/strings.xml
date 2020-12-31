@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User Settings</string>
+    <string name="action_preview_text">PREVIEW</string>
+    <string name="action_load_text">LOAD</string>
+    <string name="action_save_text">SAVE</string>
+    <string name="placeholder">Preview ...</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="desk">Desk:</string>
+    <string name="floor">Floor:</string>
+    <string name="building_name">Building name:</string>
+</resources>

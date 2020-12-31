@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Cheese fillings</string>
+    <string name="action_add_text">ADD</string>
+    <string name="content_description">A collapsing toolbar</string>
+    <string name="placeholder">This is some cheese</string>
+    <string name="checkout_dialog_title">Checkout</string>
+
+    <string name="checkout_dialog_message">Eat now or continue building your sandwich?</string>
+    <string name="action_ok_text">Eat now</string>
+    <string name="action_cancel_text">Continue</string>
+
+</resources>

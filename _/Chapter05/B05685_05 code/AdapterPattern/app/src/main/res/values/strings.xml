@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adapter Pattern</string>
+    <string name="headline">Headline</string>
+</resources>

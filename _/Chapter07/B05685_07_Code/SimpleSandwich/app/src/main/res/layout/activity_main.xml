@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.kyle.simplesandwich.MainActivity">
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radio_bagel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:paddingBottom="@dimen/padding"
+            android:text="@string/bagel" />
+
+        <RadioButton
+            android:id="@+id/radio_bun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:paddingBottom="@dimen/padding"
+            android:text="@string/bun" />
+
+    </RadioGroup>
+
+    <Switch
+        android:id="@+id/switch_toasted"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:paddingBottom="@dimen/padding"
+        android:paddingTop="@dimen/padding"
+        android:text="@string/toasted" />
+
+    <CheckBox
+        android:id="@+id/check_smoked_salmon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:paddingBottom="@dimen/padding"
+        android:text="@string/smoked_salmon" />
+
+    <CheckBox
+        android:id="@+id/check_cream_cheese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:paddingBottom="@dimen/padding"
+        android:text="@string/cream_cheese" />
+
+    <Switch
+        android:id="@+id/switch_salt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:paddingBottom="@dimen/padding"
+        android:paddingTop="@dimen/padding"
+        android:text="@string/salt" />
+
+    <RelativeLayout
+        android:id="@+id/action_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/action_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="end"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true"
+            android:gravity="center_horizontal"
+            android:minWidth="@dimen/action_minWidth"
+            android:onClick="onActionOkClicked"
+            android:padding="@dimen/padding"
+            android:text="@android:string/ok"
+            android:textColor="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/action_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_toStartOf="@id/action_ok"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true"
+            android:gravity="center_horizontal"
+            android:minWidth="@dimen/action_minWidth"
+            android:padding="@dimen/padding"
+            android:text="@string/action_cancel_text"
+            android:textColor="@color/colorAccent" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/text_order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/text_paddingLeft"
+        android:paddingTop="@dimen/padding"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

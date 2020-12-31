@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Sandwich</string>
+    <string name="bagel">Bagel</string>
+    <string name="bun">Bun</string>
+    <string name="smoked_salmon">Smoked salmon</string>
+    <string name="cream_cheese">Cream cheese</string>
+    <string name="salt">Salt</string>
+    <string name="action_cancel_text">CANCEL</string>
+    <string name="toasted">Toasted</string>
+</resources>

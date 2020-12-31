@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Strategy Pattern</string>
+    <string name="image_contentDescription">Payment screen</string>
+    <string name="card">CARD</string>
+    <string name="cash">CASH</string>
+    <string name="voucher">COUPON</string>
+</resources>

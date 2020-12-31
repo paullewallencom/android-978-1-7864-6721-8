@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expanded notifier</string>
+    <string name="content_title">Sandwich Factory</string>
+    <string name="long_text">You have now ordered your 10th sandwich with our loyalty scheme!\n\nWe\'d like to say thank you by giving you this one on the house.\n Enjoy!</string>
+    <string name="big_picture">Picture</string>
+    <string name="inbox">Inbox</string>
+    <string name="big_text">Text</string>
+    <string name="notification_triggered">Notification triggered</string>
+</resources>

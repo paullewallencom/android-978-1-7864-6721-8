@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Layout Builder</string>
+    <string name="headline">Headline</string>
+    <string name="sub_head">Sub headline</string>
+
+    <string name="long_text">LENGTHY ARTICLE - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tortor erat, dictum quis magna non, pharetra accumsan nulla. Vestibulum varius est quam, id bibendum dui condimentum et. Morbi vitae egestas purus. Aliquam erat volutpat. Vivamus fermentum sollicitudin odio non tempor. Aenean nec diam sed massa laoreet vulputate. Etiam luctus convallis ante ac lobortis. Quisque eget diam gravida, consequat arcu non, rhoncus dolor. Proin ac venenatis sapien.
+
+Donec massa massa, malesuada in fermentum et, posuere ac sem. Praesent id suscipit massa, eu maximus eros. Aenean quam ex, tristique sit amet lectus nec, pulvinar interdum massa. Duis dapibus interdum eros, in lobortis.</string>
+    <string name="short_text">SHORTER VERSION - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tortor erat, dictum quis magna non, pharetra accumsan nulla. Vestibulum varius est quam, id bibendum dui condimentum et. Morbi vitae egestas purus.</string>
+
+</resources>
+
